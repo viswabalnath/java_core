@@ -1,0 +1,48 @@
+int [] arr = {3,2,1,2,4,3};
+
+3,3,1,2,4,3
+
+for(int i=0; i< a.length; i++) {
+	int total = a[i];
+	int elementocount 
+	for(int j=i; j<a.length; j++) {
+	if(total<=7) {
+		total = total + a[j];
+		subarra
+	} 
+	if(total ==7)
+	
+	3,3,1,2,4,3
+	
+	for(int i=0; i< a.length-1; i++) {
+		total = a[i];
+		total = total + a[i+1];
+		
+		
+		
+		Thread t1 = new Thread(task1);
+		Thread t2 = new Thread(task1);
+		
+		
+		
+జూ6దగసుూగుగుగులతగగ		
+		2
+	4	  3
+  1	5  	2	4
+
+Dfs bfs
+circuit breaker open then which stage
+eureka server if second service ip changed how we will maintain
+kafka topic partitions
+for loops 
+thread if two threads runs one task and there should run one after one use wait and notify.
+'/nj      
+uuuuuuuuuuuyuḥhh li
+   
+  
+	 	SAGA Design pattern coriyography and orchastor 
+	 	CIRCUIT Breaker design pattern
+		
+		java fullstack with spring boot ms having ui skills javascript and react 
+		     	;;;;;;;;;;
+				. n.nn  
